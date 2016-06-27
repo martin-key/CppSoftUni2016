@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp4_4\cpp4_4\source.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp4_4\cpp4_4\source.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp4_4\cpp4_4\source.cpp(63): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp4_4\cpp4_4\source.cpp(64): warning C4305: '=': truncation from 'double' to 'float'
+  Cpp4_4.vcxproj -> c:\users\martin kuvandzhiev\documents\visual studio 2015\Projects\Cpp4_4\Debug\Cpp4_4.exe

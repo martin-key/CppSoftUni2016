@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp3_7\cpp3_7\source.cpp(40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp3_7\cpp3_7\source.cpp(45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Cpp3_7.vcxproj -> c:\users\martin kuvandzhiev\documents\visual studio 2015\Projects\Cpp3_7\Debug\Cpp3_7.exe

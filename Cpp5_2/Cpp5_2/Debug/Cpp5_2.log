@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  PhysicsControl.cpp
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp5_2\cpp5_2\physicscontrol.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\martin kuvandzhiev\documents\visual studio 2015\projects\cpp5_2\cpp5_2\physicscontrol.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Cpp5_2.vcxproj -> c:\users\martin kuvandzhiev\documents\visual studio 2015\Projects\Cpp5_2\Debug\Cpp5_2.exe
